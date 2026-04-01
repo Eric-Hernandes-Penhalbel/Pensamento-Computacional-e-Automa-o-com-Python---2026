@@ -10,4 +10,3 @@ match escolha:
         print("Entrar no Programa")
     case _:
         print("Erro!!")
-
